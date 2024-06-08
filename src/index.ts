@@ -1,0 +1,1 @@
+export { localStorageApi , LocalStorageApiData } from './local-storage.api'
