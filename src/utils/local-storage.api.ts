@@ -4,7 +4,7 @@ import { pipe } from "fp-ts/function";
 import * as IOE from "fp-ts/IOEither";
 import * as TE from "fp-ts/TaskEither";
 import { z } from "zod";
-import { IStorageApi } from "./IStorageApi";
+import { IStorageApi } from "../types/IStorageApi";
  
 type LocalStorageApi<
   Schema extends z.ZodTypeAny,

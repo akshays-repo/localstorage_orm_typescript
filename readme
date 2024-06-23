@@ -1,5 +1,0 @@
-## Overview This library is a TypeScript wrapper that combines zod validation and fp-ts to provide a robust local storage database experience.
-
-It offers an SQL-like experience(SQL-ORM), schema validation, and a simple API for writing, reading, updating, and deleting data in local storage. Features SQL-like Experience: Enjoy a familiar SQL-like experience for managing data in local storage. Schema Validation: Utilize zod for powerful schema validation to ensure data integrity. Error Handling and Functional Programming: Leverage fp-ts for comprehensive error handling and functional programming paradigms. Simple API: Provides a straightforward API to perform CRUD (Create, Read, Update, Delete) operations in local storage.
-
-Compatibility This is a CommonJS library that can be used with any library or framework.
